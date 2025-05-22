@@ -84,3 +84,19 @@ footer {
         height: 400px;
     }
 }
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    max-width: 80%;
+}
+
+.qr-code img {
+    width: 100px;
+    height: auto;
+    margin-left: auto;
+}
